@@ -24,7 +24,9 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      This visulization can be improved by selecting different colours the represent the restaurants, identifying how many restaurants are represented by each dot and clearly defining state boundaries. It would also be beneficial to also focus on the chains that are available all over the US and not just in select States to get a cleaner looking and more complete map. 
+        Good Visulization - I believe this visulization can be improved if more information about the planets were provided. For example Venus is the hottest planet as per this graphic however it is 2nd closest to the sun. So it would be nice to understand why this planet is hotter than Mercury. 
+      
+       Bad Visulization - This visulization can be improved by selecting different colours the represent the restaurants, identifying how many restaurants are represented by each dot and clearly defining state boundaries. It would also be beneficial to also focus on the chains that are available all over the US and not just in select States to get a cleaner looking and more complete map. 
 
 
 
