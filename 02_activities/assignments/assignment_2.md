@@ -10,9 +10,12 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Good Visulization - https://public.tableau.com/app/profile/jonathan.akpogbo.chris/viz/MeanTempearaturesofPlanets/Dashboard1
+      I believe this is a good data visulization as its easy to understand what is being portrayed quickly. The temprature scale used is consistent (for both celsius and fahrenheit). When you hover over the image of the planets it provides the name of the planet and the mean temprature. By using a box and whisker plot the author shows the distribution and outliers in a quick and efficient manner. 
 
 
+      Bad Visulization - https://flowingdata.com/2013/10/14/pizza-place-geography/
+      I believe this is a bad data visulization as its difficult to read. Some of the colours selected to represent chains look alike and blend in on the map. Its difficult to see the state boundaries as well. The visulization also doesn't mention how many restaurants are represented by a single dot on the map. 
 
 
 
@@ -21,8 +24,9 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
-
+        Good Visulization - I believe this visulization can be improved if more information about the planets were provided. For example Venus is the hottest planet as per this graphic however it is 2nd closest to the sun. So it would be nice to understand why this planet is hotter than Mercury. 
+      
+       Bad Visulization - This visulization can be improved by selecting different colours the represent the restaurants, identifying how many restaurants are represented by each dot and clearly defining state boundaries. It would also be beneficial to also focus on the chains that are available all over the US and not just in select States to get a cleaner looking and more complete map. 
 
 
 
