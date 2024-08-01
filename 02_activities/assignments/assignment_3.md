@@ -6,7 +6,7 @@
 - Let’s return to the data visualizations we evaluated for Assignment 2.  
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
-        ```
+```
 Visualization 1 - https://public.tableau.com/app/profile/jonathan.akpogbo.chris/viz/MeanTempearaturesofPlanets/Dashboard1
 
 Visualization 2 - https://flowingdata.com/2013/10/14/pizza-place-geography/
@@ -20,9 +20,10 @@ Visualization 2
 -	Very difficult to clearly identify the individual States. 
 -	If the image was made into grey scale there would be very little contrast between the colours making it difficult for an individual to differentiate between the colours. 
 -	The legend for this visualization uses a small font making it difficult to read. 
-        ```
+
+```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
-        ```
+```
 Visualization 1
 -	This visualization can be made better by selecting a larger scale and making the planets a bit larger. 
 -	The author should get rid of the black background or make it editable so the user can turn the background off. 
