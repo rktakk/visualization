@@ -7,7 +7,7 @@
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
-Visualization 1 - (https://public.tableau.com/app/profile/jonathan.akpogbo.chris/viz/MeanTempearaturesofPlanets/Dashboard1)
+Visualization 1 - https://public.tableau.com/app/profile/jonathan.akpogbo.chris/viz/MeanTempearaturesofPlanets/Dashboard1
 
 Visualization 2 - https://flowingdata.com/2013/10/14/pizza-place-geography/
 
