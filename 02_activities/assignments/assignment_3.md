@@ -6,18 +6,32 @@
 - Let’s return to the data visualizations we evaluated for Assignment 2.  
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
-        ```
-        Your answer...
+```
+Visualization 1 - https://public.tableau.com/app/profile/jonathan.akpogbo.chris/viz/MeanTempearaturesofPlanets/Dashboard1
 
+Visualization 2 - https://flowingdata.com/2013/10/14/pizza-place-geography/
 
+Visualization 1
+-	The images of the planets are small and can’t be made larger. Some of the planets also overlap or touch each other which may make it difficult to see.  
+-	If the image was made into grey scale there would be very little contrast and the black background would dominate the image. 
+-	Font size of the scale and other items on the screen is small and can’t be adjusted. The font selected for the explanation of the mean temperature is difficult to read and the letters seem to blend into each other and appear blurry. 
 
-        ```
+Visualization 2
+-	Very difficult to clearly identify the individual States. 
+-	If the image was made into grey scale there would be very little contrast between the colours making it difficult for an individual to differentiate between the colours. 
+-	The legend for this visualization uses a small font making it difficult to read. 
+
+```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
-        ```
-        Your answer...
+```
+Visualization 1
+-	This visualization can be made better by selecting a larger scale and making the planets a bit larger. 
+-	The author should get rid of the black background or make it editable so the user can turn the background off. 
+-	An easier to read font should be selected. 
 
-
-
+Visualization 2
+-	The State lines need to be clearly identified. Perhaps the author can bold the outline of the States. 
+-	The author should also perhaps trim the number of restaurants used for the visualization and select highly contrasting colours. 
         ```
 
 - Word count should not exceed (as a maximum) 300 words for each visualization. 
