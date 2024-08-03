@@ -8,20 +8,27 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
-
+        *For the bar graph and the horizontal bar graph I created these visulizations in VS Code using the code that we learned in class. 
     > Who is your intended audience? 
-    
+        *The intended audience for these visulizations are invividuals concerned about bee health in Ontario and those interested in honey produced in Ontario. 
     > What information or message are you trying to convey with your visualization? 
-    
+        *There is a decline in honey production in Ontario. It would be beneficial to pull in additional data sets such as those about the health of bee's in Ontario, weather data and construction on farming land to show what is leading to the decline. 
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
+        *I wanted to make my graphs easy to understand and be accessible for all. So I tried to keep them as simple as possible and to the point. 
     
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+        *I have uploaded the raw data file that I downloaded for this dataset along with the CSV version of the file. 
+        *I have also provided the code used and added in comments to indicate what each block of code does. 
     
     > How did you ensure that your data visualization is accessible?  
+        *I selected colours that are easy to see and added gridlines to the two bargraphs to divide up the data making it easier to read. 
+        *I selected an easy to read font and made it a bit larger than normal so it easy to read. 
     
     > Who are the individuals and communities who might be impacted by your visualization?  
+        *Beekeepers, farmers who rely on bees to pollinate their crops and anyone who purchases honey and vegetables produced in Ontario. 
     
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+        *I wanted to show case the downward trend so I analyzed the dataset and selected aspects that would best indicate this. 
     
     > What ‘underwater labour’ contributed to your final data visualization product?
 
